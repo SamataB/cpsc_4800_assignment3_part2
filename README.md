@@ -4,6 +4,15 @@
   <dt>Project Overview</dt>
   <dd>This project aims to identify the major factors that determined survival rate of the passengers in Titanic on the basis of various features such as PassengerClass, Sex, Age, Embarked. The dataset available on Kaggle, and consists sample size of 891.</dd>
 
+<dt>Project Folder structure </dt>
+  <dd>
+  Data: Dataset (titanic.csv)
+  Docs: Statistical Report (Statistical Report for Titanic Dataset.pdf)
+  Results: Graphs saved from analysis (images.png)
+  Src: Jupyter notebook code (ipynb)
+  </dd>
+
+
   <dt>Technologies Used</dt>
   <dd>Python
 Pandas
