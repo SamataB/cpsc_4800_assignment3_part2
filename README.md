@@ -15,12 +15,12 @@
 
   <dt>Technologies Used</dt>
   <dd>
-- Python 
-- Pandas 
-- Jupyter Notebook 
-- Seaborn 
-- Matplotlib
-- Data Analysis
+  - Python  </br>
+  - Pandas   </br>
+  - Jupyter Notebook  </br> 
+  - Seaborn   </br>
+  - Matplotlib  </br>
+  - Data Analysis  </br>
 <br />
 The data was cleaned and pre-processed to handle missing values and outliers. Univariate,  Bivariate and Multivariate analysis for categorical and numerical variables. For testing 5 hypothesis, checking the correlation, used heatmap
 </dd>
