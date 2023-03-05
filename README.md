@@ -6,20 +6,21 @@
 
 <dt>Project Folder structure </dt>
   <dd>
-  Data: Dataset (titanic.csv)
-  Docs: Statistical Report (Statistical Report for Titanic Dataset.pdf)
-  Results: Graphs saved from analysis (images.png)
-  Src: Jupyter notebook code (ipynb)
+  - Data: Dataset (titanic.csv) <br/>
+  - Docs: Statistical Report (Statistical Report for Titanic Dataset.pdf) <br/>
+  - Results: Graphs saved from analysis (images.png) </br>
+  - Src: Jupyter notebook code (ipynb) </br>
   </dd>
 
 
   <dt>Technologies Used</dt>
-  <dd>Python
-Pandas
-Jupyter Notebook
-Seaborn
-Matplotlib
-Data Analysis
+  <dd>
+- Python 
+- Pandas 
+- Jupyter Notebook 
+- Seaborn 
+- Matplotlib
+- Data Analysis
 <br />
 The data was cleaned and pre-processed to handle missing values and outliers. Univariate,  Bivariate and Multivariate analysis for categorical and numerical variables. For testing 5 hypothesis, checking the correlation, used heatmap
 </dd>
